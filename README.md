@@ -5,5 +5,7 @@ This uses 'CRUD' operations:
 - Read
 - Update
 - Delete
-Using this you can create the menu ,read it,update the cost of food items and delete food iems from menu
+
+  
+Using this you can create the menu ,read it,update the cost of food items and delete food items from menu
 
